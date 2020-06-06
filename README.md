@@ -1,3 +1,4 @@
 # textos
 Github y Rstudio
-Modificamos el texto para la explicación
+Modificamos el escrito para la explicación
+escrito es mucho mejor
