@@ -1,0 +1,2 @@
+# textos
+Github y Rstudio
